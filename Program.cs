@@ -1,2 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿
+string snesGame = "Super Mario World";
+Console.WriteLine($"My first Super Nintendo game was {snesGame}");
